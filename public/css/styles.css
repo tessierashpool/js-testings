@@ -3,7 +3,6 @@ html, body {
     height: 100%;
     margin: 0px;
 }
-#supercanvas{
-    background-color:#444;
-    position:absolute;
+canvas{
+    margin: auto;
 }
